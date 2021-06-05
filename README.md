@@ -29,7 +29,7 @@
 <h3 align="left">The Walking Dead 🖤</h3>
 <p align="left">
 <img src="https://i.pinimg.com/originals/b4/e7/a7/b4e7a7daa0237cc63b93deec571368ad.gif" width="%100" height="150px" alt="stats" />
-<img src="https://i.gifer.com/JkaS.gif" width="%100" height="150px" alt="stats" />
+<img src="https://thumbs.gfycat.com/ScratchyMasculineAtlanticspadefish-size_restricted.gif" width="%100" height="150px" alt="stats" />
 <img src="https://assets.skybound.com/wp-content/uploads/2017/11/13005615/vX6a.gif" width="%100" height="150px" alt="stats" />
 <img src="https://i.pinimg.com/originals/22/a6/4d/22a64d6903d74e2ce9e53c5379ce71a5.gif" width="%100" height="150px" alt="stats" />
 <img src="https://i.makeagif.com/media/2-10-2016/KLPEit.gif" width="%100" height="150px" alt="stats" /> 
